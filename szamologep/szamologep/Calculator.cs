@@ -30,7 +30,7 @@ namespace szamologep
         }
 
         // C
-        public static int Torol(int egyikszam, int masikszam)
+      /*  public static int Torol(int egyikszam, int masikszam)
         {
             return 0;
         }
@@ -38,7 +38,7 @@ namespace szamologep
         // CE
         public static int FullTorol(int egyikszam, int masikszam)
         {
-            return 0; ;
-        }
+            return 0; 
+        }*/
     }
 }
