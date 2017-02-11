@@ -1,0 +1,1 @@
+A textBox1-ben megjelenik egy "***ERROR***" felirat, jelezve a szabálytalanságot.
